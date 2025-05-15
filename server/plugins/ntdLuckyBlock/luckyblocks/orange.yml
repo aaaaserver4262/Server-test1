@@ -1,0 +1,115 @@
+texture: bd3a1436e0fd5f3e4d113a092c1d07a12e22d426c50183ccd62877d9cd885fbd
+name: '&6Orange LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : ARROW : 4'
+  - 'ITEM : MUTTON : 12 : 0'
+  '1':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : ENDER_CRYSTAL : 3'
+  - 'ITEM : DAYLIGHT_DETECTOR : 16 : 0'
+  - 'ENTITY : PRIMED_TNT : 4'
+  '2':
+  - 'ITEM : COOKED_CHICKEN : 18 : 0'
+  - 'ITEM : LEAVES : 64 : 0'
+  - 'ITEM : COMMAND_MINECART : 1 : 0'
+  '3':
+  - 'ENTITY : HORSE : 4'
+  - 'ITEM : LEATHER_HELMET : 1 : 0'
+  - 'ITEM : MAP : 56 : 0'
+  '4':
+  - 'ITEM : LAVA_BUCKET : 1 : 0'
+  '5':
+  - 'ITEM : RABBIT_FOOT : 24 : 0'
+  - 'ITEM : REDSTONE_ORE : 16 : 0'
+  - 'ITEM : GOLD_AXE : 1 : 0'
+  - 'ITEM : RECORD_10 : 1 : 0'
+  '6':
+  - 'SPECIAL : PIG : 21'
+  '7':
+  - 'ITEM : POTION : 1 : 0'
+  '8':
+  - 'ENTITY : ZOMBIE : 4'
+  - 'ENTITY : LEASH_HITCH : 3'
+  '9':
+  - 'ENTITY : ENDERMITE : 2'
+  - 'ITEM : MOB_SPAWNER : 32 : 0'
+  - 'ITEM : STAINED_GLASS_PANE : 8 : 0'
+  '10':
+  - 'ITEM : PISTON_STICKY_BASE : 16 : 0'
+  - 'ITEM : ACACIA_FENCE : 16 : 0'
+  - 'ITEM : POWERED_RAIL : 16 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '11':
+  - 'ITEM : WOOD_HOE : 1 : 0'
+  - 'ITEM : CLAY : 32 : 0'
+  '12':
+  - 'ENTITY : ZOMBIE : 3'
+  - 'ITEM : CLAY_BRICK : 41 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  '13':
+  - 'ITEM : GOLDEN_APPLE : 30 : 0'
+  '14':
+  - 'ITEM : MINECART : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIME : 2'
+  - 'ENTITY : WITHER : 4'
+  '15':
+  - 'ENTITY : CHICKEN : 2'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : BROWN_MUSHROOM : 64 : 0'
+  - 'ITEM : RED_SANDSTONE : 32 : 0'
+  '16':
+  - 'ENTITY : ARROW : 4'
+  - 'ITEM : LONG_GRASS : 32 : 0'
+  '17':
+  - 'ITEM : BED : 1 : 0'
+  - 'ITEM : EMERALD : 54 : 0'
+  '18':
+  - 'ITEM : DAYLIGHT_DETECTOR : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  '19':
+  - 'ITEM : STONE_PLATE : 32 : 0'
+  - 'ITEM : HUGE_MUSHROOM_1 : 8 : 0'
+  '20':
+  - 'ENTITY : MINECART_FURNACE : 3'
+  - 'ITEM : COOKED_MUTTON : 30 : 0'
+  '21':
+  - 'ITEM : IRON_BLOCK : 8 : 0'
+  - 'ENTITY : ENDERMITE : 4'
+  '22':
+  - 'ENTITY : SKELETON : 3'
+  - 'ITEM : HOPPER : 8 : 0'
+  '23':
+  - 'ITEM : GOLD_SPADE : 1 : 0'
+  - 'ITEM : WOOD_BUTTON : 64 : 0'
+  '24':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 2'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '25':
+  - 'ITEM : GHAST_TEAR : 37 : 0'
+  - 'ITEM : JUKEBOX : 64 : 0'
+  '26':
+  - 'ENTITY : SMALL_FIREBALL : 2'
+  - 'ENTITY : FIREBALL : 4'
+  '27':
+  - 'ENTITY : HORSE : 2'
+  - 'ITEM : RAW_FISH : 41 : 0'
+  - 'ITEM : MONSTER_EGG : 25 : 0'
+  '28':
+  - 'ENTITY : MINECART_COMMAND : 4'
+  - 'ITEM : SHEARS : 1 : 0'
+  '29':
+  - 'ITEM : STONE_SLAB2 : 16 : 0'
+  '30':
+  - 'ITEM : RECORD_6 : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 2'
+eco: true

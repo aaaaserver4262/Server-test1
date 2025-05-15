@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747239206349
+  login: 1747238638027
+money: '0'
+last-account-name: the_milk_man
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -219.33627727470295
+  y: 63.0
+  z: 505.25000288214295
+  yaw: 108.90008544921875
+  pitch: 9.449993133544922
+lastlocation:
+  world: 8d982536-c532-45ae-8798-5d77c64951a9
+  world-name: new
+  x: 19.93833186494562
+  y: 64.0
+  z: 25.491548650938718
+  yaw: -69.15005493164062
+  pitch: 9.30000114440918

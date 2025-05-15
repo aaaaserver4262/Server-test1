@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747235471308
+  login: 1747234652421
+money: '0'
+last-account-name: kingrobby101
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -155.4899168499072
+  y: 64.0
+  z: 256.9855238102781
+  yaw: 11.250000953674316
+  pitch: 12.750000953674316
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -162.30143625521544
+  y: 66.0
+  z: 135.67657784097895
+  yaw: 175.6499786376953
+  pitch: 36.149993896484375

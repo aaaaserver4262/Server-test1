@@ -1,0 +1,93 @@
+texture: 6cfb4ebc3ba4fec04d8978a1660bb7c98e96342ff2a238ada9df2f74bf032b40
+name: '&5Purple LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : BREAD : 30 : 0'
+  - 'ITEM : BLAZE_POWDER : 23 : 0'
+  - 'ENTITY : BLAZE : 2'
+  '1':
+  - 'ENTITY : CREEPER : 3'
+  - 'ITEM : GLOWSTONE_DUST : 32 : 0'
+  '2':
+  - 'ENTITY : ENDERMITE : 1'
+  - 'ENTITY : MAGMA_CUBE : 4'
+  - 'ITEM : SULPHUR : 62 : 0'
+  '3':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 4'
+  - 'ITEM : DARK_OAK_FENCE_GATE : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 1'
+  '5':
+  - 'ENTITY : SMALL_FIREBALL : 2'
+  - 'ITEM : IRON_CHESTPLATE : 1 : 0'
+  '6':
+  - 'ITEM : WOOD_PLATE : 16 : 0'
+  '7':
+  - 'ENTITY : CAVE_SPIDER : 4'
+  - 'ITEM : GOLDEN_APPLE : 43 : 0'
+  '8':
+  - 'ENTITY : GUARDIAN : 2'
+  - 'ITEM : TNT : 16 : 0'
+  - 'ENTITY : WITCH : 2'
+  '9':
+  - 'ITEM : BOOK_AND_QUILL : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : ICED : 2'
+  '10':
+  - 'ITEM : DIAMOND_HOE : 1 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '11':
+  - 'ENTITY : PIG : 1'
+  - 'ITEM : FLINT_AND_STEEL : 1 : 0'
+  - 'ENTITY : MINECART_HOPPER : 2'
+  - 'ENTITY : LEASH_HITCH : 1'
+  '12':
+  - 'ITEM : STONE_AXE : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  - 'ITEM : WOOD_DOOR : 3 : 0'
+  '13':
+  - 'ITEM : EYE_OF_ENDER : 27 : 0'
+  '14':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : WOOD_AXE : 1 : 0'
+  - 'ITEM : GHAST_TEAR : 62 : 0'
+  '15':
+  - 'ITEM : DIAMOND_SPADE : 1 : 0'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  - 'ENTITY : VILLAGER : 4'
+  - 'ENTITY : VILLAGER : 1'
+  '17':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '18':
+  - 'ITEM : COAL_ORE : 64 : 0'
+  - 'ENTITY : ENDER_DRAGON : 4'
+  - 'SPECIAL : LIGHTNING : 3'
+  '19':
+  - 'ENTITY : WITHER : 1'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '20':
+  - 'ENTITY : WOLF : 1'
+  '21':
+  - 'ENTITY : ENDER_SIGNAL : 3'
+  '22':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'ITEM : REDSTONE_LAMP_OFF : 8 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  '24':
+  - 'ITEM : STONE_SWORD : 1 : 0'
+  - 'ITEM : BREAD : 3 : 0'
+  '25':
+  - 'ENTITY : THROWN_EXP_BOTTLE : 3'
+eco: true

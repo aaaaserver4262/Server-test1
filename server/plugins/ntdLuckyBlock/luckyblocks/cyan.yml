@@ -1,0 +1,99 @@
+texture: 300c817432585fadcbd9ca8cfedfeedbce5851b7c07d1b073fb52fa8283e8f23
+name: '&3Cyan LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : COMMAND_MINECART : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  '1':
+  - 'ENTITY : GHAST : 4'
+  - 'ITEM : MUSHROOM_SOUP : 1 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '2':
+  - 'ENTITY : ENDER_DRAGON : 2'
+  - 'ENTITY : WITHER : 1'
+  - 'ITEM : COAL_BLOCK : 32 : 0'
+  - 'ITEM : LEAVES : 8 : 0'
+  '3':
+  - 'ITEM : BIRCH_FENCE : 64 : 0'
+  '4':
+  - 'ENTITY : THROWN_EXP_BOTTLE : 3'
+  '5':
+  - 'ITEM : WEB : 16 : 0'
+  '6':
+  - 'ITEM : ARROW : 5 : 0'
+  '7':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : PIG_ZOMBIE : 1'
+  - 'ITEM : SHEARS : 1 : 0'
+  - 'ITEM : REDSTONE : 23 : 0'
+  '8':
+  - 'ITEM : WHEAT : 1 : 0'
+  - 'ITEM : SOIL : 64 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ENTITY : MINECART_COMMAND : 3'
+  - 'ENTITY : SLIME : 1'
+  '10':
+  - 'ITEM : ENDER_STONE : 16 : 0'
+  - 'ITEM : BIRCH_FENCE : 16 : 0'
+  - 'ITEM : NETHER_STAR : 39 : 0'
+  '11':
+  - 'ENTITY : PIG : 3'
+  - 'ITEM : YELLOW_FLOWER : 32 : 0'
+  - 'ITEM : BONE : 19 : 0'
+  '12':
+  - 'ENTITY : BOAT : 3'
+  '13':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : MINECART_CHEST : 1'
+  '14':
+  - 'ENTITY : OCELOT : 3'
+  - 'ITEM : SLIME_BLOCK : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  - 'ENTITY : FIREBALL : 3'
+  '15':
+  - 'ITEM : HUGE_MUSHROOM_1 : 32 : 0'
+  - 'ENTITY : ZOMBIE : 3'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ITEM : ENDER_CHEST : 32 : 0'
+  '17':
+  - 'ENTITY : GHAST : 4'
+  '18':
+  - 'ENTITY : MINECART_TNT : 1'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 1'
+  '20':
+  - 'ENTITY : MINECART_COMMAND : 1'
+  - 'ITEM : GOLD_PICKAXE : 1 : 0'
+  '21':
+  - 'ENTITY : SNOWMAN : 2'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  - 'ITEM : IRON_FENCE : 64 : 0'
+  '22':
+  - 'ENTITY : ENDER_PEARL : 1'
+  '23':
+  - 'ITEM : VINE : 8 : 0'
+  '24':
+  - 'ENTITY : ENDER_SIGNAL : 2'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '25':
+  - 'ITEM : LEATHER_CHESTPLATE : 1 : 0'
+  - 'ENTITY : SPIDER : 3'
+  - 'ITEM : IRON_BARDING : 1 : 0'
+  '26':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '27':
+  - 'ENTITY : MUSHROOM_COW : 2'
+  '28':
+  - 'ITEM : RECORD_4 : 1 : 0'
+eco: true

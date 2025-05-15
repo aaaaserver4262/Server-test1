@@ -1,0 +1,33 @@
+Hello :D
+This is ThePikaChuP.
+Before you install the map please install all the mods and the lucky block addon
+To change all the blocks used in the generators please change the id's for the commands in the blocks under the main spawn area.
+You can use this map however please not that I did not create this map, I also did not create any mods in this map.
+I only created the commands and main spawn area the rest of the building was done by hypixel.
+
+This map was UPDATED for 1.12.2 however it will work upto 1.16.5
+If you encounted any errors email themodreviewer6@gmail.com
+
+For those downloading the map on curse the REQUIRED mods are:
+
+(SEE Mod Links.txt)
+
+PLEASE NOTE: 
+ for the unchanged version of this map you need all the required mods in 1.12.2 and the lucky block night addon for everything to work
+ you can change everything in the commands to change the generation of lucky blocks under the base. There is a button to teleport there at spawn.
+
+How to install everything:
+*First make sure you have downloaded all the mods and addons then proceed*
+
+1. Navigate to the .minecraft folder by typing in your search bar %appdata% and pressing enter
+
+2. Drag the Lucky Block Bedwars 1.12.2 UPDATE! folder into the saves folder in .minecraft
+
+3. Open your mods folder and drag and drop the emerald armor. loot overhaul, additions and lucky block mod
+into it
+
+4. Create a folder in .minecraft labeled addons
+
+5. Open the Lucky+Block+Night+v2.6.zip file and drag contents into your addon folder
+
+6. Launch your game and everything should work!

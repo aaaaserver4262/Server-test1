@@ -1,0 +1,95 @@
+texture: 29942dd1338abeae8b8274a41ae1dcdf2b7be449f28d6b650ec06e491e70f570
+name: '&4Red LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : PISTON_STICKY_BASE : 8 : 0'
+  - 'ITEM : ICE : 64 : 0'
+  - 'ITEM : RED_SANDSTONE : 16 : 0'
+  - 'ITEM : RECORD_4 : 1 : 0'
+  '1':
+  - 'ENTITY : ARROW : 3'
+  '2':
+  - 'ENTITY : SNOWBALL : 2'
+  - 'ENTITY : BOAT : 3'
+  '3':
+  - 'ITEM : LEASH : 60 : 0'
+  - 'ITEM : SAPLING : 16 : 0'
+  - 'ITEM : WOOD_STEP : 8 : 0'
+  '4':
+  - 'ITEM : THIN_GLASS : 8 : 0'
+  - 'ENTITY : ENDER_CRYSTAL : 3'
+  - 'ITEM : SPRUCE_FENCE : 16 : 0'
+  - 'ITEM : SPRUCE_DOOR_ITEM : 64 : 0'
+  '5':
+  - 'ITEM : WOOD_SPADE : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  '6':
+  - 'ENTITY : MAGMA_CUBE : 3'
+  '7':
+  - 'ENTITY : WITHER_SKULL : 1'
+  - 'ITEM : MILK_BUCKET : 1 : 0'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : BLAZE_POWDER : 53 : 0'
+  '9':
+  - 'ITEM : IRON_BLOCK : 32 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '10':
+  - 'ITEM : SOIL : 64 : 0'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : PINK : 4'
+  - 'ITEM : WOOD : 32 : 0'
+  - 'ITEM : MELON : 9 : 0'
+  '12':
+  - 'ITEM : SOUL_SAND : 64 : 0'
+  - 'ENTITY : SNOWMAN : 4'
+  - 'ENTITY : SNOWMAN : 1'
+  '13':
+  - 'ENTITY : MAGMA_CUBE : 1'
+  - 'ITEM : DIAMOND_HOE : 1 : 0'
+  '14':
+  - 'ITEM : PRISMARINE_CRYSTALS : 53 : 0'
+  - 'ITEM : CHAINMAIL_CHESTPLATE : 1 : 0'
+  '15':
+  - 'ITEM : DAYLIGHT_DETECTOR : 32 : 0'
+  - 'ITEM : PAINTING : 9 : 0'
+  - 'ENTITY : WITCH : 2'
+  '16':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  - 'ENTITY : MINECART_MOB_SPAWNER : 4'
+  '17':
+  - 'ITEM : HARD_CLAY : 64 : 0'
+  - 'ITEM : GOLD_PICKAXE : 1 : 0'
+  '18':
+  - 'ITEM : ENDER_STONE : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  - 'ITEM : GOLD_NUGGET : 2 : 0'
+  '19':
+  - 'ENTITY : MINECART_HOPPER : 3'
+  - 'ITEM : REDSTONE_ORE : 16 : 0'
+  '20':
+  - 'ITEM : LEATHER_CHESTPLATE : 1 : 0'
+  - 'ENTITY : PIG : 3'
+  - 'ENTITY : WITHER : 2'
+  '21':
+  - 'ENTITY : PRIMED_TNT : 2'
+  - 'ITEM : COBBLESTONE : 64 : 0'
+  '22':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '23':
+  - 'ITEM : BUCKET : 5 : 0'
+  - 'ITEM : COBBLE_WALL : 64 : 0'
+  - 'ENTITY : ENDER_SIGNAL : 4'
+eco: true

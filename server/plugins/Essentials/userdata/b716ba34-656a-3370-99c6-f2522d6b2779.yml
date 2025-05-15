@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747239213449
+  login: 1747237588731
+money: '0'
+last-account-name: Nari
+logoutlocation:
+  world: 8d982536-c532-45ae-8798-5d77c64951a9
+  world-name: new
+  x: 31.300000011920943
+  y: 19.0
+  z: -39.41770760920805
+  yaw: 97.800048828125
+  pitch: 43.499996185302734
+lastlocation:
+  world: 8d982536-c532-45ae-8798-5d77c64951a9
+  world-name: new
+  x: 0.5005655385701411
+  y: 64.0
+  z: -1.5195918397099015
+  yaw: -358.35003662109375
+  pitch: -0.7500000596046448

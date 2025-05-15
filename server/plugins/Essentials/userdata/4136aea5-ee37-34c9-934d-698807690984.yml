@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747159196654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747237248072
+  login: 1747236129513
+money: '0'
+last-account-name: cris00
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -261.2680862776431
+  y: 28.0
+  z: 221.699999988079
+  yaw: -92.85009765625
+  pitch: 10.350008964538574
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -155.5
+  y: 64.0
+  z: 256.5
+  yaw: 278.10003662109375
+  pitch: 12.750009536743164

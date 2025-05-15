@@ -1,0 +1,114 @@
+texture: c8e16e7ff13d3e30a3a2b835a86fd05ecbc08909f6056de1646fe25b3def9584
+name: '&fWhite LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  - 'ENTITY : SHEEP : 3'
+  '1':
+  - 'ENTITY : MUSHROOM_COW : 2'
+  - 'ITEM : ANVIL : 64 : 0'
+  '2':
+  - 'ITEM : RECORD_8 : 1 : 0'
+  - 'ITEM : TRIPWIRE_HOOK : 64 : 0'
+  - 'ITEM : PUMPKIN_PIE : 7 : 0'
+  '3':
+  - 'ITEM : BIRCH_FENCE_GATE : 8 : 0'
+  '4':
+  - 'ITEM : GHAST_TEAR : 54 : 0'
+  '5':
+  - 'ITEM : ICE : 64 : 0'
+  - 'ENTITY : EXPERIENCE_ORB : 3'
+  - 'ITEM : DIAMOND_AXE : 1 : 0'
+  '6':
+  - 'ENTITY : PAINTING : 4'
+  - 'ITEM : EMERALD_ORE : 64 : 0'
+  '7':
+  - 'ITEM : SPRUCE_FENCE_GATE : 16 : 0'
+  - 'ENTITY : GHAST : 3'
+  '8':
+  - 'ENTITY : ENDERMITE : 3'
+  - 'ENTITY : SNOWMAN : 4'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 2'
+  '9':
+  - 'ITEM : MONSTER_EGG : 8 : 0'
+  - 'ITEM : RABBIT_HIDE : 18 : 0'
+  '10':
+  - 'ENTITY : EXPERIENCE_ORB : 4'
+  - 'ITEM : COAL : 30 : 0'
+  '11':
+  - 'ITEM : DIAMOND_AXE : 1 : 0'
+  - 'ITEM : CAKE : 1 : 0'
+  '12':
+  - 'ITEM : GOLD_SPADE : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 2'
+  - 'ITEM : SLIME_BLOCK : 64 : 0'
+  '13':
+  - 'LUCKY_BLOCK_ITEM : RED : 4'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  '14':
+  - 'ENTITY : GIANT : 2'
+  '15':
+  - 'ITEM : EGG : 14 : 0'
+  - 'ITEM : NOTE_BLOCK : 16 : 0'
+  '16':
+  - 'ITEM : DIAMOND_BARDING : 1 : 0'
+  - 'ENTITY : WITCH : 3'
+  '17':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '18':
+  - 'ITEM : OBSIDIAN : 64 : 0'
+  - 'ITEM : JUKEBOX : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  '19':
+  - 'ITEM : ACTIVATOR_RAIL : 64 : 0'
+  - 'ENTITY : WOLF : 3'
+  '20':
+  - 'ITEM : HAY_BLOCK : 16 : 0'
+  - 'ITEM : STONE_HOE : 1 : 0'
+  '21':
+  - 'ITEM : MUTTON : 45 : 0'
+  - 'ENTITY : SPIDER : 3'
+  - 'ITEM : DIAMOND_PICKAXE : 1 : 0'
+  - 'ITEM : RAW_FISH : 1 : 0'
+  '22':
+  - 'ENTITY : WITCH : 2'
+  '23':
+  - 'ENTITY : OCELOT : 4'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ENTITY : MINECART_COMMAND : 1'
+  '24':
+  - 'ENTITY : ENDERMAN : 4'
+  - 'LUCKY_BLOCK_ITEM : LIME : 2'
+  '25':
+  - 'ITEM : RABBIT_FOOT : 56 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 3'
+  - 'ENTITY : ARROW : 1'
+  '26':
+  - 'ENTITY : IRON_GOLEM : 1'
+  - 'ITEM : SNOW_BLOCK : 32 : 0'
+  '27':
+  - 'ITEM : MINECART : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  - 'ITEM : PUMPKIN_SEEDS : 45 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  - 'ITEM : BEDROCK : 64 : 0'
+  '29':
+  - 'ENTITY : BOAT : 4'
+  '30':
+  - 'ITEM : LEATHER_HELMET : 1 : 0'
+  '31':
+  - 'ITEM : BUCKET : 5 : 0'
+  '32':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+eco: true

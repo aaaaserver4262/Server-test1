@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747239099732
+  login: 1747238171986
+money: '0'
+last-account-name: Grawhi
+lastlocation:
+  world: 8d982536-c532-45ae-8798-5d77c64951a9
+  world-name: new
+  x: 5.33442565545224
+  y: 64.0
+  z: -5.737490499311588
+  yaw: -294.4500427246094
+  pitch: -2.5500001907348633
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -146.9946573006318
+  y: 63.0
+  z: 256.6879674342585
+  yaw: 153.15000915527344
+  pitch: -10.050000190734863

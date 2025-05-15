@@ -1,0 +1,125 @@
+texture: 65fed46b39c6c34d491143b72ce728797d16f9b5aa40bbdec61667f5ff9d3d45
+name: '&bLight blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : NETHER_BRICK : 8 : 0'
+  - 'ITEM : HAY_BLOCK : 64 : 0'
+  '1':
+  - 'ITEM : LEATHER : 18 : 0'
+  '2':
+  - 'ITEM : LADDER : 32 : 0'
+  - 'ITEM : WOOD_DOOR : 2 : 0'
+  '3':
+  - 'ITEM : IRON_INGOT : 34 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '4':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : IRON_GOLEM : 3'
+  - 'ENTITY : SMALL_FIREBALL : 1'
+  '5':
+  - 'ENTITY : MINECART : 3'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 2'
+  - 'ITEM : PRISMARINE : 8 : 0'
+  '7':
+  - 'ENTITY : ZOMBIE : 2'
+  - 'ITEM : GOLD_PLATE : 64 : 0'
+  '8':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : BAKED_POTATO : 26 : 0'
+  - 'ITEM : COAL : 43 : 0'
+  '9':
+  - 'ITEM : IRON_PICKAXE : 1 : 0'
+  - 'ITEM : FIREWORK : 12 : 0'
+  '10':
+  - 'ENTITY : MUSHROOM_COW : 2'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : PINK : 4'
+  - 'ENTITY : MINECART_TNT : 3'
+  '12':
+  - 'ENTITY : GUARDIAN : 4'
+  - 'ITEM : COMMAND_MINECART : 1 : 0'
+  '13':
+  - 'ITEM : IRON_FENCE : 64 : 0'
+  - 'ITEM : BIRCH_DOOR_ITEM : 6 : 0'
+  - 'ITEM : CHAINMAIL_CHESTPLATE : 1 : 0'
+  - 'ITEM : ANVIL : 8 : 0'
+  '14':
+  - 'ITEM : MELON_BLOCK : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 2'
+  - 'ITEM : IRON_PLATE : 16 : 0'
+  '15':
+  - 'ITEM : BIRCH_DOOR_ITEM : 58 : 0'
+  - 'ITEM : GOLD_BOOTS : 1 : 0'
+  - 'ITEM : DROPPER : 32 : 0'
+  '16':
+  - 'ENTITY : GUARDIAN : 3'
+  '17':
+  - 'ENTITY : SLIME : 1'
+  '18':
+  - 'LUCKY_BLOCK_ITEM : RED : 2'
+  - 'ITEM : INK_SACK : 63 : 0'
+  '19':
+  - 'ITEM : RABBIT_STEW : 1 : 0'
+  '20':
+  - 'ENTITY : HORSE : 2'
+  - 'ITEM : BED : 1 : 0'
+  '21':
+  - 'ITEM : DIAMOND_BLOCK : 8 : 0'
+  - 'ITEM : GOLDEN_APPLE : 48 : 0'
+  '22':
+  - 'ENTITY : EXPERIENCE_ORB : 3'
+  - 'ITEM : FENCE : 8 : 0'
+  - 'ITEM : RABBIT_STEW : 1 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  - 'ENTITY : WOLF : 4'
+  '24':
+  - 'ITEM : IRON_BOOTS : 1 : 0'
+  - 'ITEM : GOLD_NUGGET : 29 : 0'
+  - 'ENTITY : PIG : 1'
+  '25':
+  - 'SPECIAL : PIG : 9'
+  - 'ITEM : DIAMOND_CHESTPLATE : 1 : 0'
+  - 'ITEM : DEAD_BUSH : 32 : 0'
+  '26':
+  - 'ITEM : CHAINMAIL_HELMET : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  '27':
+  - 'ITEM : LEATHER_LEGGINGS : 1 : 0'
+  - 'ENTITY : MINECART_COMMAND : 3'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '28':
+  - 'ITEM : HOPPER_MINECART : 1 : 0'
+  - 'ENTITY : SKELETON : 2'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  '29':
+  - 'ITEM : RECORD_8 : 1 : 0'
+  - 'ITEM : NETHER_STAR : 7 : 0'
+  '30':
+  - 'ITEM : RAW_FISH : 55 : 0'
+  '31':
+  - 'ENTITY : IRON_GOLEM : 4'
+  - 'ITEM : FLOWER_POT_ITEM : 54 : 0'
+  '32':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 3'
+  - 'ENTITY : WOLF : 3'
+  '33':
+  - 'ITEM : JUNGLE_FENCE_GATE : 8 : 0'
+  - 'ITEM : FIREWORK_CHARGE : 24 : 0'
+  '34':
+  - 'ENTITY : RABBIT : 1'
+  '35':
+  - 'ENTITY : GHAST : 4'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ITEM : MINECART : 1 : 0'
+eco: true

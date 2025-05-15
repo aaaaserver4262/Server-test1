@@ -1,0 +1,123 @@
+texture: f171a0c0572824da80366d71c5413a7e3355abec79b8f529f1dc9dad2632f485
+name: '&8Gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : IRON_PLATE : 8 : 0'
+  '1':
+  - 'ENTITY : ENDER_DRAGON : 1'
+  - 'ENTITY : SNOWBALL : 3'
+  '2':
+  - 'ITEM : IRON_CHESTPLATE : 1 : 0'
+  - 'ITEM : DEAD_BUSH : 64 : 0'
+  '3':
+  - 'ITEM : SUGAR_CANE : 57 : 0'
+  - 'ENTITY : COW : 2'
+  '4':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : COMMAND : 8 : 0'
+  - 'ENTITY : ENDER_DRAGON : 3'
+  '5':
+  - 'ITEM : WRITTEN_BOOK : 16 : 0'
+  '6':
+  - 'ENTITY : VILLAGER : 4'
+  - 'ITEM : YELLOW_FLOWER : 16 : 0'
+  '7':
+  - 'ENTITY : OCELOT : 4'
+  - 'ITEM : QUARTZ_ORE : 16 : 0'
+  - 'ENTITY : CREEPER : 4'
+  '8':
+  - 'ITEM : BREWING_STAND_ITEM : 5 : 0'
+  - 'ENTITY : WITHER : 2'
+  - 'ITEM : QUARTZ : 17 : 0'
+  - 'ITEM : SMOOTH_BRICK : 32 : 0'
+  '9':
+  - 'ITEM : STONE_BUTTON : 64 : 0'
+  - 'ITEM : IRON_HELMET : 1 : 0'
+  - 'ENTITY : OCELOT : 3'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 2'
+  '11':
+  - 'ITEM : TRAP_DOOR : 32 : 0'
+  '12':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : CHEST : 64 : 0'
+  '13':
+  - 'ITEM : RECORD_10 : 1 : 0'
+  - 'ITEM : LOG : 16 : 0'
+  '14':
+  - 'ENTITY : SQUID : 1'
+  - 'ENTITY : BAT : 4'
+  - 'ENTITY : SMALL_FIREBALL : 2'
+  '15':
+  - 'ENTITY : GUARDIAN : 1'
+  - 'ITEM : MOSSY_COBBLESTONE : 16 : 0'
+  '16':
+  - 'ITEM : WOOD_AXE : 1 : 0'
+  - 'ENTITY : THROWN_EXP_BOTTLE : 3'
+  '17':
+  - 'ENTITY : ZOMBIE : 4'
+  - 'ENTITY : FIREBALL : 1'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  '18':
+  - 'ENTITY : GHAST : 3'
+  - 'ENTITY : BAT : 2'
+  - 'ITEM : CLAY_BALL : 15 : 0'
+  - 'ITEM : SUGAR : 20 : 0'
+  '19':
+  - 'ENTITY : PAINTING : 3'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '20':
+  - 'ENTITY : EXPERIENCE_ORB : 2'
+  - 'ITEM : LEATHER : 31 : 0'
+  - 'ITEM : ENCHANTMENT_TABLE : 32 : 0'
+  '21':
+  - 'ITEM : MAP : 45 : 0'
+  '22':
+  - 'ITEM : CHAINMAIL_HELMET : 1 : 0'
+  - 'ITEM : STONE_SWORD : 1 : 0'
+  '23':
+  - 'ITEM : IRON_CHESTPLATE : 1 : 0'
+  - 'ITEM : DARK_OAK_DOOR_ITEM : 34 : 0'
+  - 'ENTITY : IRON_GOLEM : 1'
+  - 'ITEM : SUGAR_CANE : 10 : 0'
+  '24':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '25':
+  - 'ITEM : BED : 1 : 0'
+  '26':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : BLAZE : 3'
+  '27':
+  - 'ITEM : COOKED_BEEF : 62 : 0'
+  '28':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : WRITTEN_BOOK : 7 : 0'
+  - 'ENTITY : PRIMED_TNT : 3'
+  - 'SPECIAL : LIGHTNING : 3'
+  '29':
+  - 'ITEM : REDSTONE_TORCH_ON : 16 : 0'
+  - 'ITEM : SKULL_ITEM : 51 : 0'
+  - 'ENTITY : VILLAGER : 1'
+  '30':
+  - 'ITEM : TNT : 8 : 0'
+  '31':
+  - 'ENTITY : FIREBALL : 3'
+  - 'ENTITY : ENDERMITE : 4'
+  '32':
+  - 'ENTITY : ENDERMAN : 4'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '33':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+eco: true

@@ -1,0 +1,21 @@
+Hello :D
+This is ThePikaChuP.
+Before you install the map please install all the mods and the lucky block addon
+To change all the blocks used in the generators please change the id's for the commands in the blocks under the main spawn area.
+You can use this map however please not that I did not create this map, I also did not create any mods in this map.
+I only created the commands and main spawn area the rest of the building was done by hypixel.
+
+This map was made in version 1.8.9 however it will work upto 1.15.2
+If you encounted any errors email themodreviewer6@gmail.com
+
+For those downloading the map on curse the REQUIRED mods are:
+
+	- The Lucky Block Mod
+	- Loot++ Mod
+	- Emerald Armor Mod (Made by ThePikaChuP) {https://www.curseforge.com/minecraft/mc-mods/emerald-armor-mod-thepikachup}
+	- Custom Villager Trades {https://www.curseforge.com/minecraft/mc-mods/custom-trades-mod/files}
+        - Lucky Block Night Addon
+
+PLEASE NOTE: 
+ for the unchanged version of this map you need all the required mods in 1.8.9 and the lucky block night addon for everything to work
+ you can change everything in the commands to change the generation of lucky blocks under the base. There is a button to teleport there at spawn.

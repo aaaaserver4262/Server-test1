@@ -1,0 +1,105 @@
+texture: b03f5a9bc719cd1127be0954c73cd5714ecd478dad880ef2b9979c481097e6be
+name: '&aLime LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : MINECART : 1'
+  - 'ENTITY : GHAST : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  '1':
+  - 'SPECIAL : LIGHTNING : 3'
+  '2':
+  - 'SPECIAL : LIGHTNING : 3'
+  '3':
+  - 'ITEM : COAL_ORE : 64 : 0'
+  '4':
+  - 'ITEM : FENCE_GATE : 64 : 0'
+  - 'ITEM : RECORD_12 : 1 : 0'
+  '5':
+  - 'ITEM : ACTIVATOR_RAIL : 16 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '6':
+  - 'ITEM : PACKED_ICE : 16 : 0'
+  - 'ITEM : EXPLOSIVE_MINECART : 1 : 0'
+  '7':
+  - 'ENTITY : ENDERMITE : 4'
+  - 'LUCKY_BLOCK_ITEM : GRAY : 1'
+  '8':
+  - 'ITEM : NETHER_BRICK : 8 : 0'
+  - 'ITEM : CHAINMAIL_LEGGINGS : 1 : 0'
+  '9':
+  - 'ITEM : COOKED_CHICKEN : 59 : 0'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ENTITY : ENDER_CRYSTAL : 3'
+  - 'ITEM : CHAINMAIL_CHESTPLATE : 1 : 0'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 2'
+  '12':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : LEASH : 19 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '13':
+  - 'ITEM : HOPPER_MINECART : 1 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : LEASH_HITCH : 1'
+  '14':
+  - 'ENTITY : SNOWBALL : 3'
+  - 'ITEM : STAINED_GLASS_PANE : 16 : 0'
+  - 'ENTITY : WITCH : 3'
+  - 'ITEM : COAL : 32 : 0'
+  '15':
+  - 'ENTITY : WITHER_SKULL : 2'
+  - 'ITEM : ACTIVATOR_RAIL : 32 : 0'
+  - 'ENTITY : WITHER_SKULL : 1'
+  '16':
+  - 'ITEM : STAINED_GLASS_PANE : 16 : 0'
+  - 'ITEM : VINE : 8 : 0'
+  - 'ENTITY : PAINTING : 4'
+  '17':
+  - 'ITEM : INK_SACK : 20 : 0'
+  '18':
+  - 'ENTITY : GHAST : 4'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 2'
+  '19':
+  - 'ITEM : FLINT : 44 : 0'
+  '20':
+  - 'ITEM : CARROT_ITEM : 6 : 0'
+  - 'ITEM : CLAY_BALL : 34 : 0'
+  - 'ITEM : ENDER_PEARL : 10 : 0'
+  '21':
+  - 'ENTITY : ENDER_CRYSTAL : 2'
+  - 'ENTITY : BOAT : 3'
+  '22':
+  - 'ITEM : GOLD_PLATE : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  - 'ENTITY : BOAT : 4'
+  '23':
+  - 'SPECIAL : PIG : 12'
+  - 'ITEM : IRON_BARDING : 1 : 0'
+  '24':
+  - 'ENTITY : LEASH_HITCH : 4'
+  - 'ITEM : GLASS_BOTTLE : 7 : 0'
+  '25':
+  - 'ITEM : WATCH : 25 : 0'
+  - 'ITEM : WATCH : 41 : 0'
+  - 'ITEM : SPRUCE_FENCE : 8 : 0'
+  '26':
+  - 'ITEM : PISTON_STICKY_BASE : 16 : 0'
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  - 'ITEM : DRAGON_EGG : 8 : 0'
+  '27':
+  - 'ITEM : IRON_SPADE : 1 : 0'
+  - 'ITEM : NETHERRACK : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  - 'ITEM : LONG_GRASS : 16 : 0'
+eco: true

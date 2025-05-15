@@ -1,0 +1,16 @@
+Recommended Links (copy & paste):
+
+Lucky Block Mod:
+https://www.luckyblockmod.com/download?platform=forge
+
+Night Lucky Block Addon:
+https://www.curseforge.com/minecraft/customization/night-lucky-block/files
+
+Additions Mod (Loot++ for 1.12.2):
+https://www.curseforge.com/minecraft/mc-mods/additions-mod/files
+
+Loot Overhaul Mod (needed for additions mod):
+https://www.curseforge.com/minecraft/mc-mods/loot-overhaul/files
+
+Emerald Armor Mod:
+https://www.curseforge.com/minecraft/mc-mods/emerald-armor-and-tools-mod/files
