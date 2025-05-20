@@ -287,7 +287,7 @@ update:
   # Decide wether you want the plugin
   # to check for updates everytime you
   # start the server and notify you
-  enable-update-check: true
+  enable-update-check: false
   
   # Decide wether you want to enable
   # the /spleef update command for

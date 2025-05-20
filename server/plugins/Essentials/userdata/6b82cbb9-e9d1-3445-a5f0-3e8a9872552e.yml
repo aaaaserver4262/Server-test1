@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747237256174
-  login: 1747235929607
+  logout: 1747752653163
+  login: 1747750412565
 money: '0'
 last-account-name: Dabi
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -389.00733792735923
-  y: 12.0
-  z: 249.93972897931405
-  yaw: 191.70068359375
-  pitch: -1.8000081777572632
+  x: -297.84001533325807
+  y: 109.0
+  z: 172.76883179031714
+  yaw: -224.3499755859375
+  pitch: 25.29854393005371
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -565.2393144647735
+  y: 82.0
+  z: 364.7461516221266
+  yaw: 60.1500244140625
+  pitch: -1.6499921083450317

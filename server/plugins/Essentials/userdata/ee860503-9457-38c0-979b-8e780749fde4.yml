@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747410214941
+  login: 1747410200069
+money: '0'
+last-account-name: maryam_
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -155.49339536048086
+  y: 64.4807108763317
+  z: 256.9497310848187
+  yaw: -6.900001049041748
+  pitch: -47.69999694824219

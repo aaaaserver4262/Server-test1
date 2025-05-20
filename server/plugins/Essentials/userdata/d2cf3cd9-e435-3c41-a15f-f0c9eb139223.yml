@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747416861416
+  login: 1747416855030
+money: '0'
+last-account-name: megaminionjerry
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -144.68966656389844
+  y: 30.0
+  z: 206.06235934296456
+  yaw: 225.4501190185547
+  pitch: 18.449993133544922

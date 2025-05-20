@@ -40,6 +40,6 @@ hooks:
   epicboss: false
 fix-tab-names: true
 fix-death-messages: true
-update-notification: true
+update-notification: false
 use-player-bar-permissions: false
 override-other-scoreboard: false

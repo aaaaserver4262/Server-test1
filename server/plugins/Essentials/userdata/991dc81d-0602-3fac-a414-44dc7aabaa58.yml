@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747237249474
-  login: 1747236764407
+  logout: 1747752723471
+  login: 1747750466761
 money: '0'
 last-account-name: leshaundinglenut
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -328.46913080837606
-  y: 26.0
-  z: 331.49926041874636
-  yaw: 178.19908142089844
-  pitch: -5.583502769470215
+  x: -301.77421455238215
+  y: 65.8500000178814
+  z: 184.42747744871
+  yaw: 162.18853759765625
+  pitch: 24.99671745300293
+lastlocation:
+  world: 79f5bf67-b9fd-4154-9177-890f7d1436ed
+  world-name: world_nether
+  x: -99.96505399631054
+  y: 39.0
+  z: 34.36399672009671
+  yaw: -49.23089599609375
+  pitch: 28.199995040893555

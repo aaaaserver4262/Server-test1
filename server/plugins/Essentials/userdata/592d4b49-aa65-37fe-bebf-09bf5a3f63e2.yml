@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747239203950
-  login: 1747237809972
+  logout: 1747409811882
+  login: 1747409713916
 money: '0'
 last-account-name: ninja
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -282.30000001192093
+  x: -333.5216408863387
   y: 64.0
-  z: 311.30000001192093
-  yaw: 12.600001335144043
-  pitch: 22.199993133544922
+  z: 240.63975512641642
+  yaw: -197.09999084472656
+  pitch: 1.050007939338684
 lastlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world

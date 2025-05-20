@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747237246973
-  login: 1747235500261
+  logout: 1747745383198
+  login: 1747744910911
 money: '0'
 last-account-name: Isiss
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -256.9250545225434
-  y: 66.0
-  z: 359.99541201473863
-  yaw: -325.6500549316406
-  pitch: 10.649992942810059
+  x: -155.5
+  y: 64.0
+  z: 256.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -483.467755430947
+  y: 97.0
+  z: 530.6485764949377
+  yaw: 269.40008544921875
+  pitch: 31.950002670288086

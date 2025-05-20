@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747745386099
+  login: 1747745183854
+money: '0'
+last-account-name: Sasuke
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -454.4020095023739
+  y: 25.0
+  z: 253.29604124193003
+  yaw: 159.000244140625
+  pitch: 27.899993896484375
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -302.30000001192093
+  y: 66.0
+  z: 245.85680506338173
+  yaw: 209.8500213623047
+  pitch: 79.6500015258789

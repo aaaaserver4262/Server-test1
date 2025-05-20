@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747680368082
+  login: 1747679977832
+money: '0'
+last-account-name: Grim_Reaper
+logoutlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -297.58214173410386
+  y: 109.0
+  z: 195.19324108671776
+  yaw: 270.150146484375
+  pitch: 5.700008392333984
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -343.9131071979366
+  y: 64.0
+  z: 245.86746254132336
+  yaw: 275.1500244140625
+  pitch: 0.7499920129776001
