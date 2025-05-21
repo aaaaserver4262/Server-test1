@@ -1,0 +1,13 @@
+wins: 0
+losses: 0
+kills: 0
+deaths: 0
+pareffect: none
+proeffect: none
+glasscolor: none
+winsound: none
+killsound: none
+taunt: none
+uuid: 10a0c0e2-54e3-344b-9391-85712cdb71f5
+player_name: DOOM_SLAYER
+xp: 0

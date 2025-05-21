@@ -1,0 +1,144 @@
+The Best Base:
+  name: The Best Base
+  owner: 8bf820a9-c6bc-3538-ab75-1d5e41de239b
+  world: world
+  chunks:
+    '0':
+      x: -19
+      z: 10
+    '1':
+      x: -19
+      z: 13
+    '2':
+      x: -18
+      z: 11
+    '3':
+      x: -18
+      z: 12
+    '4':
+      x: -19
+      z: 11
+    '5':
+      x: -20
+      z: 11
+    '6':
+      x: -20
+      z: 12
+    '7':
+      x: -19
+      z: 12
+    '8':
+      x: -20
+      z: 13
+  permissions:
+    ENTITY_DAMAGE_FRIENDLY: TRUSTED
+    FIRE_USE: TRUSTED
+    ENTITY_DAMAGE_VEHICLE: ALL
+    ENT_PLACE: TRUSTED
+    INTERACT: ALL
+    VEHICLE_PLACE: TRUSTED
+    DELETE: NONE
+    ENTITY_DAMAGE_NL: TRUSTED
+    EXPLODE: TRUSTED
+    BREAK: TRUSTED
+    ENTITY_DAMAGE_HOSTILE: ALL
+    BUILD: TRUSTED
+    MANAGE: NONE
+    ENTER: ALL
+    CHEST_OPEN: TRUSTED
+  users:
+    f120e45a-eb13-3e72-ada9-c45d4ab4f99c:
+    - BUILD
+    - ENTER
+    cc718aa1-908b-3956-905f-59993300b324:
+    - ENTER
+'New Claim #3':
+  name: 'New Claim #3'
+  owner: a09d9599-c777-3d52-b647-797cdc1dc256
+  world: world
+  chunks:
+    '0':
+      x: -15
+      z: 45
+    '1':
+      x: -17
+      z: 46
+    '2':
+      x: -16
+      z: 46
+    '3':
+      x: -15
+      z: 46
+    '4':
+      x: -18
+      z: 44
+    '5':
+      x: -17
+      z: 45
+    '6':
+      x: -18
+      z: 46
+    '7':
+      x: -16
+      z: 45
+    '8':
+      x: -14
+      z: 46
+    '9':
+      x: -17
+      z: 44
+  permissions: {}
+  users: {}
+'New Claim #1':
+  name: 'New Claim #1'
+  owner: a09d9599-c777-3d52-b647-797cdc1dc256
+  world: world
+  chunks:
+    '0':
+      x: -18
+      z: 45
+    '1':
+      x: -19
+      z: 44
+    '2':
+      x: -21
+      z: 45
+    '3':
+      x: -19
+      z: 45
+    '4':
+      x: -22
+      z: 45
+    '5':
+      x: -18
+      z: 44
+    '6':
+      x: -21
+      z: 46
+    '7':
+      x: -20
+      z: 45
+    '8':
+      x: -20
+      z: 46
+    '9':
+      x: -20
+      z: 44
+  permissions:
+    ENTITY_DAMAGE_NL: NONE
+    ENTITY_DAMAGE_VEHICLE: TRUSTED
+    BREAK: NONE
+    ENTITY_DAMAGE_MISC: NONE
+    ENTITY_DAMAGE_HOSTILE: NONE
+    BUILD: NONE
+    ENTER: TRUSTED
+    CHEST_OPEN: NONE
+  users:
+    b35e4648-3bf4-3ee5-a1df-a82db4f06500:
+    - ENTER
+    d0a47a7b-a7d5-3748-819f-ea87e6e3bd5e:
+    - ENTER
+    6b82cbb9-e9d1-3445-a5f0-3e8a9872552e:
+    - ENTER
+    8b45f39c-cb14-3b9b-9c53-f36423fea3b1:
+    - ENTER
