@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747849889794
-  login: 1747848452623
+  logout: 1748005616327
+  login: 1748004296517
 money: '0'
 last-account-name: Sasuke
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -367.66242120202827
-  y: 24.0
-  z: 307.67297980743575
-  yaw: 176.3756103515625
-  pitch: 27.450010299682617
+  x: -375.68473971329416
+  y: 11.0
+  z: 317.96007971912087
+  yaw: 358.67724609375
+  pitch: 10.499993324279785
 lastlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world

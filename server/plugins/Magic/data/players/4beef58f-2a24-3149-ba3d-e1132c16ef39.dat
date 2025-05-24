@@ -1,0 +1,19 @@
+id: 4beef58f-2a24-3149-ba3d-e1132c16ef39
+name: Taeshaun
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 1.666965652714922,24.644999983683228,21.2553777885439,world_nether,0.3,-3.6000004
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747936715177
+  login: 1747935429856
+money: '0'
+last-account-name: Tae
+lastlocation:
+  world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
+  world-name: world
+  x: -261.7648830523912
+  y: 29.0
+  z: 223.49607740460127
+  yaw: -150.45001220703125
+  pitch: 21.449993133544922
+logoutlocation:
+  world: 8d982536-c532-45ae-8798-5d77c64951a9
+  world-name: new
+  x: -79.10304583013189
+  y: 67.0
+  z: 10.814279883205563
+  yaw: 268.65008544921875
+  pitch: 28.649993896484375

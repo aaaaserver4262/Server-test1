@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747750394954
-  login: 1747750364170
+  logout: 1748015693371
+  login: 1748015662885
 money: '0'
 last-account-name: Dabi_
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: -155.0660180361609
   y: 60.0
   z: 256.99348764748356
-  yaw: 0.0
-  pitch: 0.0
+  yaw: 245.25003051757812
+  pitch: -67.6500015258789

@@ -1,0 +1,19 @@
+id: 11c85069-67a0-3659-bc67-bf50ed2f8ddb
+name: HeLLo
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -486.69999998807907,99.14480961125521,522.3000000119209,world,289.20026,38.399994
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}

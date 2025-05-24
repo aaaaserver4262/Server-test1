@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747850280298
-  login: 1747849182214
+  logout: 1748011870066
+  login: 1748011364345
 money: '0'
 last-account-name: i_see_youlol
 logoutlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
-  x: -176.3071417758947
-  y: 84.0
-  z: -596.061129043086
-  yaw: -252.4501495361328
-  pitch: 42.59999465942383
+  x: -511.5506828130541
+  y: 37.0
+  z: -8.45854503120519
+  yaw: -252.44993591308594
+  pitch: 56.099998474121094
 lastlocation:
   world: 8d982536-c532-45ae-8798-5d77c64951a9
   world-name: new
-  x: 0.0
-  y: 64.0
-  z: 0.0
-  yaw: 0.30000004172325134
-  pitch: -0.4500000476837158
+  x: 71.61117174670707
+  y: 75.6537296175886
+  z: -100.69999998807907
+  yaw: -137.25001525878906
+  pitch: 90.0

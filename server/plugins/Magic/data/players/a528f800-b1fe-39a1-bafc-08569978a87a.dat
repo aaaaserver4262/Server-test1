@@ -1,0 +1,19 @@
+id: a528f800-b1fe-39a1-bafc-08569978a87a
+name: Jason_Voorhees
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: -144.9482028946293,60.0,118.32473168125159,world_nether,153.90005,7.3499928
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}
