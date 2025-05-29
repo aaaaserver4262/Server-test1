@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748019387770
-  login: 1748018969988
+  logout: 1748365617351
+  login: 1748365560349
 money: '0'
 last-account-name: DOOM_SLAYER
 logoutlocation:
   world: a30289e3-cf9e-4475-84ab-2482251454bb
   world-name: hi
-  x: -1649.8078428836423
-  y: 100.0
-  z: -644.5552128896442
-  yaw: 4.262451171875
-  pitch: 39.29999923706055
+  x: -1671.4478741749672
+  y: 89.0
+  z: -604.675955283233
+  yaw: 156.96253967285156
+  pitch: -29.250011444091797
 lastlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world

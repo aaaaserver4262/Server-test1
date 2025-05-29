@@ -2,7 +2,7 @@ teleportenabled: true
 teleportauto: false
 godmode: false
 muted: false
-jailed: true
+jailed: false
 ip-address: 0:0:0:0:0:0:0:1
 afk: false
 socialspy: false
@@ -11,29 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1747847369059
+  lastteleport: 1748452092155
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748019389047
-  login: 1748018507087
+  logout: 1748452251069
+  login: 1748451071277
 money: '0'
 last-account-name: HeLLo
 logoutlocation:
   world: 8d982536-c532-45ae-8798-5d77c64951a9
   world-name: new
-  x: 26.30000001192093
-  y: 70.0
-  z: -9.272526838871816
-  yaw: 202.55029296875
-  pitch: 22.250003814697266
+  x: -239.08653462850668
+  y: 82.0
+  z: -7.287076424034663
+  yaw: 76.52433013916016
+  pitch: 12.900009155273438
 lastlocation:
   world: 8d982536-c532-45ae-8798-5d77c64951a9
   world-name: new
-  x: -118.22284105717003
-  y: 81.0
-  z: -7.811732600383358
-  yaw: 293.10003662109375
-  pitch: 56.100006103515625
-jail: hell
+  x: -248.2524477414454
+  y: 130.0
+  z: -4.37871678469001
+  yaw: 294.024169921875
+  pitch: 20.400009155273438

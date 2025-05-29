@@ -1,0 +1,6 @@
+Language: en
+Economy:
+  Enable: true
+  Price: 100
+AlphabetAndNumberBanner:
+  Enable: true

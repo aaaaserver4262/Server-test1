@@ -1,3 +1,7 @@
+# 
+# Don't edit it. But who's stopping you? It's your server!
+# Really, don't edit ;p
+# You edited it, huh? Next time hurt yourself!
 instances:
   default:
     lobbylocation: world,364.0,63.0,-72.0,0.0,0.0
@@ -7,21 +11,77 @@ instances:
     maximumplayers: 10
     mapname: mapname
     world: worldname
-    signs: [ ]
+    signs: []
     isdone: false
     playerspawnpoints:
-      - world,364.0,63.0,-72.0,0.0,0.0
+    - world,364.0,63.0,-72.0,0.0,0.0
     goldspawnpoints:
-      - world,364.0,63.0,-72.0,0.0,0.0
+    - world,364.0,63.0,-72.0,0.0,0.0
     mystery-cauldrons:
-      - world,364.0,63.0,-72.0,0.0,0.0
+    - world,364.0,63.0,-72.0,0.0,0.0
     playerpermurderer: 5
     playerperdetective: 7
     goldvisuals: false
-
-# Don't edit it. But who's stopping you? It's your server!
-# Really, don't edit ;p
-# You edited it, huh? Next time hurt yourself!
+  portal:
+    isdone: true
+    startlocation: mm1,616.81,10.0,-1095.0,-217.65,10.2
+    playerspawnpoints:
+    - mm1,611,10,-1101,0.0,0.0
+    - mm1,610,9,-1121,0.0,0.0
+    - mm1,618,10,-1137,0.0,0.0
+    - mm1,609,14,-1146,0.0,0.0
+    - mm1,599,14,-1143,0.0,0.0
+    - mm1,609,14,-1154,0.0,0.0
+    - mm1,618,13,-1154,0.0,0.0
+    - mm1,623,10,-1153,0.0,0.0
+    - mm1,628,12,-1139,0.0,0.0
+    - mm1,632,15,-1132,0.0,0.0
+    - mm1,630,18,-1125,0.0,0.0
+    - mm1,634,19,-1124,0.0,0.0
+    - mm1,632,18,-1117,0.0,0.0
+    - mm1,623,18,-1116,0.0,0.0
+    - mm1,624,18,-1108,0.0,0.0
+    - mm1,624,13,-1098,0.0,0.0
+    - mm1,624,11,-1087,0.0,0.0
+    - mm1,616,9,-1090,0.0,0.0
+    - mm1,611,9,-1095,0.0,0.0
+    playerpermurderer: 1
+    playerperdetective: 1
+    maximumplayers: 20
+    minimumplayers: 2
+    goldvisuals: false
+    spawngoldtime: 6
+    goldspawnpoints:
+    - mm1,612,9,-1101,0.0,0.0
+    - mm1,610,9,-1106,0.0,0.0
+    - mm1,609,10,-1113,0.0,0.0
+    - mm1,609,9,-1121,0.0,0.0
+    - mm1,613,10,-1132,0.0,0.0
+    - mm1,617,9,-1127,0.0,0.0
+    - mm1,623,18,-1122,0.0,0.0
+    - mm1,628,18,-1123,0.0,0.0
+    - mm1,631,18,-1128,0.0,0.0
+    - mm1,631,15,-1133,0.0,0.0
+    - mm1,628,12,-1138,0.0,0.0
+    - mm1,624,9,-1145,0.0,0.0
+    - mm1,623,9,-1147,0.0,0.0
+    - mm1,622,10,-1152,0.0,0.0
+    - mm1,619,11,-1153,0.0,0.0
+    - mm1,615,12,-1155,0.0,0.0
+    - mm1,611,14,-1153,0.0,0.0
+    - mm1,609,14,-1152,0.0,0.0
+    - mm1,608,14,-1144,0.0,0.0
+    - mm1,607,14,-1139,0.0,0.0
+    - mm1,603,15,-1143,0.0,0.0
+    - mm1,598,14,-1143,0.0,0.0
+    - mm1,617,9,-1132,0.0,0.0
+    spectatorlocation: mm1,609.59,9.0,-1118.67,-356.36,7.97
+    lobbylocation: lobby2,224.0,72.0,1335.0,0.0,0.0
+    endlocation: lobby2,224.0,72.0,1335.0,0.0,0.0
+    mapname: portal
+    signs:
+    - lobby2,248,71,1344,0.0,0.0
+    - lobby2,250,71,1344,0.0,0.0
 Do-Not-Edit:
   File-Version: 1
   Core-Version: 1

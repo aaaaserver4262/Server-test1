@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748019390753
-  login: 1748019134903
+  logout: 1748365686239
+  login: 1748364250773
 money: '0'
 last-account-name: kingrobby101
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 8d982536-c532-45ae-8798-5d77c64951a9
   world-name: new
-  x: -70.40291161449073
-  y: 63.0
-  z: 45.91884862250909
-  yaw: 42.800086975097656
-  pitch: 21.60000991821289
+  x: -52.113679950381425
+  y: 66.0
+  z: -16.700503742549614
+  yaw: -153.7501220703125
+  pitch: 36.899993896484375

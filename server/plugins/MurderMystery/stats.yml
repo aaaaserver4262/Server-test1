@@ -3,16 +3,56 @@ data-version: 1
   playername: Adam89893333
 a09d9599-c777-3d52-b647-797cdc1dc256:
   playername: Hamzah898933_
+  next_level_exp: 354
+  contribution_detective: 1
+  level: 1
+  contribution_murderer: 1
+  games_played: 3
+  kills: 1
+  exp: 30
+  wins: 1
+  deaths: 2
 11c85069-67a0-3659-bc67-bf50ed2f8ddb:
   playername: HeLLo
+  next_level_exp: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
 8b45f39c-cb14-3b9b-9c53-f36423fea3b1:
   playername: jellybean21
+  next_level_exp: 354
+  contribution_detective: 205
+  level: 1
+  contribution_murderer: 45
+  games_played: 2
+  kills: 4
+  exp: 20
+  wins: 2
+  highest_score: 300
 1e56af27-c024-3a02-bf6a-5f0d1e9caf10:
   playername: todorokiswife
 d0a47a7b-a7d5-3748-819f-ea87e6e3bd5e:
   playername: haha1243
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  contribution_murderer: 0
+  games_played: 0
+  exp: 0
+  wins: 0
 d86678db-a54b-3284-9ce7-5bba6bf45426:
   playername: Isiss
+  next_level_exp: 0
+  contribution_detective: 0
+  level: 0
+  deaths: 0
+  games_played: 0
+  exp: 0
+  loses: 0
+  contribution_murderer: 0
+  kills: 0
+  highest_score: 0
 6f2d68b6-54a4-3e98-bf6a-c5dbd9e4191e:
   playername: Rafael
 9bb4197b-9d0b-3c42-a5a8-ef6f67bfe58e:
@@ -119,3 +159,21 @@ d8142df3-838e-393b-a1f1-9c337faa7ece:
   playername: kinngrobby101
 e80938de-ce0b-36b1-a9b3-cdbc377fba6e:
   playername: Zayzay
+4d54452a-1903-38d6-8515-520f50a521a0:
+  playername: Dadi
+cec546e5-e294-34fa-86cc-17eba75d256d:
+  playername: fuck_this_sver
+255b00ec-c5d4-3bfb-895f-74d6322ba04c:
+  playername: leshaundignlenut
+7250296e-61eb-3133-9209-ba3aa3d6dd34:
+  playername: hegbhjbnnj
+0e55c5d7-65bb-345c-a26f-8a46f084237a:
+  playername: ADOLF_HITLER
+5f870ab7-819f-3fcc-a58a-815cd00bb9dc:
+  playername: wjdhway
+7dc47e18-f71e-3c49-aad5-6774a6fdabd3:
+  playername: KKK
+82eff62d-82e0-3adc-bfc8-e0d1cd8366de:
+  playername: suk_it
+8c43d184-aadd-3fc7-8200-71e4159f61df:
+  playername: YeerYee3019

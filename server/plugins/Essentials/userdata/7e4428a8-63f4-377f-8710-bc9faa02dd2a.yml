@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748005773515
-  login: 1748005098088
+  logout: 1748455157586
+  login: 1748452941280
 money: '0'
 last-account-name: the_milk_man
 logoutlocation:
   world: 8d982536-c532-45ae-8798-5d77c64951a9
   world-name: new
-  x: 31.400914302760075
-  y: 71.0
-  z: -66.30000001192093
-  yaw: -84.15000915527344
-  pitch: 36.60000991821289
+  x: -9.489714917913664
+  y: 63.0
+  z: 109.66159975085249
+  yaw: -297.64996337890625
+  pitch: 90.0
 lastlocation:
   world: e91ad7b6-3781-4c40-bb9d-22b3b1ca642f
   world-name: world
